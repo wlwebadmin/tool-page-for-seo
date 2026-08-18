@@ -1,0 +1,30 @@
+const restrictedCountries = [
+  "Bangladesh",
+  "Pakistan",
+  "Sri Lanka",
+  "Afghanistan",
+  "Nepal",
+  "Bhutan",
+  "Vietnam",
+  "Philippines",
+  "Central African Republic",
+  "Kenya",
+  "Tanzania",
+  "Zambia",
+  "Portugal",
+  "Finland",
+  "Colombia",
+  "Venezuela",
+  "Thailand",
+  "Russia",
+  "Japan",
+  "Brazil",
+  "Greece",
+  "Nigeria",
+  "Ghana",
+  "Chad",
+];
+
+module.exports = {
+  restrictedCountries,
+};
